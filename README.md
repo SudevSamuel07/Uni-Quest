@@ -1,4 +1,7 @@
+🎓 UniQuest - College Information Chatbot
+A beautiful, interactive web-based chatbot that helps students find information about various colleges and universities in India. UniQuest provides instant answers to common questions about college rankings, fees, facilities, placements, and more.
 
+UniQuest Preview
 HTML
 CSS
 JavaScript
